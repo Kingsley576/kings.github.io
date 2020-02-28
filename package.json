@@ -1,0 +1,19 @@
+{
+  "name": "kings.github.io",
+  "version": "1.0.0",
+  "description": "My personal profile details",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingsley576/kings.github.io.git"
+  },
+  "author": "Kingsley Obioha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingsley576/kings.github.io/issues"
+  },
+  "homepage": "https://github.com/Kingsley576/kings.github.io#readme"
+}
